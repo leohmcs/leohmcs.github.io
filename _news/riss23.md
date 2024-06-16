@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sun: This Summer I will work on Informative Path Planning with [Brady Moon](https://bradymoon.com/) and Prof. [Sebastian Scherer](https://theairlab.org/team/sebastian/) at CMU as part of the [RISS](https://riss.ri.cmu.edu/) program!
+:sunny: This Summer I will work on Informative Path Planning with [Brady Moon](https://bradymoon.com/) and Prof. [Sebastian Scherer](https://theairlab.org/team/sebastian/) at CMU as part of the [RISS](https://riss.ri.cmu.edu/) program!
