@@ -23,4 +23,4 @@ I am currently a [Robotics Institute Summer Scholars](https://riss.ri.cmu.edu/) 
 
 Besides those mentioned above, I am very grateful for the wonderful mentors and collaborators I've had including [Héctor Azpúrua](https://www.linkedin.com/in/hectorazp/), [Caio Conti](https://www.linkedin.com/in/caio-conti/) and [Rachel Burcin](https://www.rachelburcin.com/).
 
-Apart from research, I enjoy playing and watching football, mainly Flamengo games (the biggest team in Brazil as brilliantly [proved](https://youtu.be/Bk_2Oq41opY) by Bruno Henrique).
+Apart from research, I enjoy playing and watching football :soccer:, mainly Flamengo games (the biggest team in Brazil as brilliantly [proved](https://youtu.be/Bk_2Oq41opY) by Bruno Henrique).
