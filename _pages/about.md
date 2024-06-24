@@ -21,7 +21,7 @@ Hello, I am Leo. I'm an Electrical Engineering student at [Federal University of
 
 I am interested in building robots that interact with humans, particularly in how we can guarantee safety in those interactions. My research interests lie in the intersection of robotics, control theory and machine learning.
 
-During my undergrad, I had the privilege to be a [Robotics Institute Summer Scholars](https://riss.ri.cmu.edu/) in 2023 and 2024 at CMU, where I worked with [Sebastian Scherer](https://theairlab.org/team/sebastian/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/), respectively. I also had the pleasure to work with [Douglas Macharet](https://homepages.dcc.ufmg.br/~doug/site/en/) at UFMG, and with [Jana Tumova](https://sites.google.com/view/janatumova/home) at while at KTH.
+During my undergrad, I had the privilege to be a [Robotics Institute Summer Scholars](https://riss.ri.cmu.edu/) in 2023 and 2024 at CMU, where I worked with [Sebastian Scherer](https://theairlab.org/team/sebastian/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/), respectively. I also had the pleasure to work with [Douglas Macharet](https://homepages.dcc.ufmg.br/~doug/site/en/) at UFMG, and with [Jana Tumova](https://sites.google.com/view/janatumova/home) while at KTH.
 
 I am also an organizer of the [RoboLaunch](https://riss.ri.cmu.edu/robolaunch/) outreach initiative that brings leading robotics and AI researcher around the world to present their work in accessible talks.
 
