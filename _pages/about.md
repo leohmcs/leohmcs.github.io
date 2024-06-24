@@ -31,4 +31,4 @@ I am also an organizer of the [RoboLaunch](https://riss.ri.cmu.edu/robolaunch/) 
 
 Apart from research, I enjoy playing and watching football :soccer:, mainly Flamengo games (the biggest team in Brazil as brilliantly [proved by Bruno Henrique](https://youtu.be/Bk_2Oq41opY)).
 
-[google scholar](https://scholar.google.com/citations?user=dvfgXjkAAAAJ&hl=en) | [github](https://github.com/leohmcs) | [linkedin](https://www.linkedin.com/in/leohmcs/)
+[google scholar](https://scholar.google.com/citations?user=dvfgXjkAAAAJ&hl=en) \| [github](https://github.com/leohmcs) \| [linkedin](https://www.linkedin.com/in/leohmcs/)
