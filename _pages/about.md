@@ -30,3 +30,5 @@ I am also an organizer of the [RoboLaunch](https://riss.ri.cmu.edu/robolaunch/) 
 <!-- Besides those mentioned above, I am very grateful for the wonderful mentors and collaborators I've had including [Héctor Azpúrua](https://www.linkedin.com/in/hectorazp/), [Caio Conti](https://www.linkedin.com/in/caio-conti/) and [Rachel Burcin](https://www.rachelburcin.com/). -->
 
 Apart from research, I enjoy playing and watching football :soccer:, mainly Flamengo games (the biggest team in Brazil as brilliantly [proved by Bruno Henrique](https://youtu.be/Bk_2Oq41opY)).
+
+[google scholar](https://scholar.google.com/citations?user=dvfgXjkAAAAJ&hl=en) | [github](https://github.com/leohmcs) | [linkedin](https://www.linkedin.com/in/leohmcs/)
