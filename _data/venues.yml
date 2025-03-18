@@ -1,9 +1,13 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"IEEE ICRA 2025":
+  url: https://2025.ieee-icra.org/
+  color: "#af0af0"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"AIAA SCITECH 2025":
+  url: https://aiaa.org/SciTech/
+  color: "#2542e8"
 
-"Vision":
-  color: "#009f36"
+"IEEE LARS 2022":
+  url: https://fei.edu.br/robotica/wtdr/
+  color: "#2542e8"
+
+
