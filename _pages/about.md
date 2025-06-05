@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical Engineering Undergrad @ <a href='https://ufmg.br/'>UFMG</a>.
+subtitle: Electrical Engineering Undergrad @ <a href='https://ufmg.br/'>UFMG</a> | <i>Memento mori</i>
 
 profile:
   align: right

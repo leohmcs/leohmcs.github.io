@@ -1,9 +1,9 @@
 ---
 layout: book-shelf
-title: reading
+title: books
 permalink: /books/
 nav: true
-nav_order: 2
+nav_order: 5
 collection: # books
 ---
 
@@ -27,7 +27,7 @@ I enjoy reading and talking about books I've read. If you happen to be intereste
 * [*Quincas Borba (Philosopher or Dog)*, by Machado de Assis](https://en.wikipedia.org/wiki/Quincas_Borba)
 * [*Sagarana*, by João Guimarães Rosa](https://pt.wikipedia.org/wiki/Sagarana)
 
-## Other stuff I've read in the past couple of years
+## Other stuff I've enjoyed reading in the past
 ### Brazilian Literature
 * [*Os melhores contos*, by Fernando Sabino](https://en.wikipedia.org/wiki/Fernando_Sabino)
 * [*O menino no espelho*, by Fernando Sabino](https://pt.wikipedia.org/wiki/O_Menino_no_Espelho#:~:text=O%20Menino%20no%20Espelho%20%C3%A9,mesmo%20nome%2C%20lan%C3%A7ado%20em%202014.)
@@ -40,6 +40,7 @@ I enjoy reading and talking about books I've read. If you happen to be intereste
 * [*Notes from Underground*, by Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Notes_from_Underground)
 * [*Family Happiness*, by Leo Tolstoy](https://en.wikipedia.org/wiki/Family_Happiness)
 * [*The Kreutzer Sonata*, by Leo Tolstoy](https://en.wikipedia.org/wiki/The_Kreutzer_Sonata)
+* [*The Steppe*, by Anton Chekhov](https://en.wikipedia.org/wiki/The_Steppe_(novella))
 * [*Childhood's End*, by Arthur C. Clarke](https://en.wikipedia.org/wiki/Childhood%27s_End)
 * [*Brave New World*, by Aldous Huxley](https://en.wikipedia.org/wiki/Brave_New_World)
 * [*I, Robot*, by Isaac Asimov](https://en.wikipedia.org/wiki/I,_Robot)
@@ -54,6 +55,7 @@ I enjoy reading and talking about books I've read. If you happen to be intereste
 * [*The Art of War*, by Sun Tzu](https://en.wikipedia.org/wiki/The_Art_of_War)
 * [*Thinking, Fast and Slow*, by Daniel Kahneman](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 * [*Sapiens: A Brief History of Humankind*, by Yuval Noah Harari](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)
+* [*Deep Work*, by Cal Newport](https://en.wikipedia.org/wiki/Cal_Newport)
 * [*Dopamine Nation*, by Anna Lembke MD](https://en.wikipedia.org/wiki/Anna_Lembke)
 * [*Mindset: The New Psychology of Success*, by Carol Dweck](https://en.wikipedia.org/wiki/Mindset:_The_New_Psychology_of_Success)
 * [*Einstein's Dreams*, by Alan Lightman](https://en.wikipedia.org/wiki/Einstein%27s_Dreams)

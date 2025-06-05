@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:page_with_curl: One [paper](https://arxiv.org/abs/2409.14580) accepted to [2025 IEEE ICRA](https://2025.ieee-icra.org/): "Updating Robot Safety Representations Online from Natural Language Feedback"!
+:page_with_curl: One [paper](https://arxiv.org/abs/2409.14580) accepted to [2025 IEEE ICRA](https://2025.ieee-icra.org/): "Updating Robot Safety Representations Online from Natural Language Feedback".
