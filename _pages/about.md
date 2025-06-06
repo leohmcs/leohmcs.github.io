@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical Engineering Undergrad @ <a href='https://ufmg.br/'>UFMG</a> | <i>Memento mori</i>
+subtitle: Electrical Engineering Undergrad @ <a href='https://ufmg.br/'>UFMG</a> • <i>Memento mori</i>
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:   # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
