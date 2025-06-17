@@ -33,7 +33,7 @@ I enjoy reading and talking about books I've read. If you happen to be intereste
 
 ### Brazilian Literature
 
-- [_The Posthumous Memoirs of Bras Cubas_, by Machado de Assis](https://en.wikipedia.org/wiki/The_Posthumous_Memoirs_of_Br%C3%A1s_Cubas)
+- [_Memórias Póstumas de Brás Cubas (The Posthumous Memoirs of Bras Cubas)_, by Machado de Assis](https://en.wikipedia.org/wiki/The_Posthumous_Memoirs_of_Br%C3%A1s_Cubas)
 - [_Os melhores contos_, by Fernando Sabino](https://en.wikipedia.org/wiki/Fernando_Sabino)
 - [_O menino no espelho_, by Fernando Sabino](https://pt.wikipedia.org/wiki/O_Menino_no_Espelho#:~:text=O%20Menino%20no%20Espelho%20%C3%A9,mesmo%20nome%2C%20lan%C3%A7ado%20em%202014.)
 - [_No fim dá certo_, by Fernando Sabino](https://en.wikipedia.org/wiki/Fernando_Sabino)
