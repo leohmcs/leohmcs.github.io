@@ -11,7 +11,14 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+
 {% include bib_search.liquid %}
+
+<div class="gray-box" style="background:#DEF0FF; padding:0.2em 0.4em; border-radius:2px;font-size:1.15rem;">
+* Indicates equal contribution.
+\(^\dagger \) Indicates equal advising.
+
+</div>
 
 <div class="publications">
 

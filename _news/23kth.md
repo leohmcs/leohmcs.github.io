@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:fallen_leaf: This Fall I will be at [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden as an exchange student.
+:fallen_leaf: This Fall I will study at [KTH Royal Institute of Technology](https://www.kth.se/en) in Sweden as an exchange student.

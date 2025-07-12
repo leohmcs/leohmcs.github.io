@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical Engineering Undergrad @ <a href='https://ufmg.br/'>UFMG</a> • <i>Memento mori</i>
+subtitle: PhD Student @ <a href='https://kth.se/en'>KTH</a> • <i>Memento mori</i>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>leohmcs@gmail.com</p>
+  more_info: >
+          <p>Lindstedtsvägen 24, 4th floor, 11428</p> 
+          <p>Stockholm, Sweden</p> 
+          <p>leohmcs at gmail dot com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -17,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -25,14 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I am Leo. I'm an Electrical Engineering student at [Federal University of Minas Gerais (UFMG)](https://ufmg.br/) :brazil:. During my undergrad, I also spent a semester abroad at [KTH Royal Institute of Technology](https://www.kth.se/en) :sweden:.
+Hello, I'm Leo. I'm a PhD student in the Division of Robotics, Perception and Learning at the [KTH Royal Institute of Technology](www.kth.se/en) :sweden:. I am interested in enabling robots to have meaningful, long-term interactions with humans and assuring that robot's behavior is aligned with human expectations by leveraging tools from robotics, control theory and machine learning.
 
-I am interested in building robots that interact with humans, particularly in how we can guarantee safety in those interactions. My research interests lie in the intersection of robotics, control theory and machine learning.
-
-As an undergrad, I had the privilege to be a [Robotics Institute Summer Scholar](https://riss.ri.cmu.edu/) (RISS) in 2023 and 2024 at Carnegie Mellon University (CMU), where I worked with [Sebastian Scherer](https://theairlab.org/team/sebastian/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/), respectively. I also had the pleasure to work with [Douglas Macharet](https://homepages.dcc.ufmg.br/~doug/site/en/) at UFMG, and with [Jana Tumova](https://sites.google.com/view/janatumova/home) while at KTH.
-
-During RISS, I was also an organizer of the [RoboLaunch](https://riss.ri.cmu.edu/robolaunch/) outreach initiative that brings leading robotics and AI researchers from around the world to present their work in accessible talks.
-
-Apart from research, I enjoy playing and watching football (soccer), reading literature, and being outside whenever I can find an excuse.
+Previously, I graduated from the [Federal University of Minas Gerais (UFMG)](https://ufmg.br) :brazil: with a Bachelor's in Electrical Engineering. As an undergrad, I had the pleasure to work with [Douglas Macharet](https://homepages.dcc.ufmg.br/~doug/site/en/) in the [Computer Vision and Robotics Lab (VeRLab)](https://www.verlab.dcc.ufmg.br/). I also had the privilege to be a [Robotics Institute Summer Scholar (RISS)](https://riss.ri.cmu.edu/) in 2023 and 2024 at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) :us:, where I worked with [Sebastian Scherer](https://theairlab.org/team/sebastian/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/), respectively.
 
 [google scholar](https://scholar.google.com/citations?user=dvfgXjkAAAAJ&hl=en) \| [github](https://github.com/leohmcs) \| [linkedin](https://www.linkedin.com/in/leohmcs/)
