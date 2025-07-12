@@ -68,11 +68,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-sunny-this-summer-i-will-work-on-informative-path-planning-with-brady-moon-and-prof-sebastian-scherer-at-cmu-as-part-of-the-riss-program",
+            },},{id: "news-page-with-curl-one-paper-accepted-to-2022-ieee-lars-collaborative-ugv-uav-path-planning-for-inventory-management-in-warehouses",
+          title: ':page_with_curl: One paper accepted to 2022 IEEE LARS: “Collaborative UGV/UAV Path Planning for...',
+          description: "",
+          section: "News",},{id: "news-sunny-this-summer-i-will-work-on-informative-path-planning-with-brady-moon-and-prof-sebastian-scherer-at-cmu-as-part-of-the-riss-program",
           title: ':sunny: This Summer I will work on Informative Path Planning with Brady Moon...',
           description: "",
-          section: "News",},{id: "news-fallen-leaf-this-fall-i-will-be-at-kth-royal-institute-of-technology-in-sweden-as-an-exchange-student",
-          title: ':fallen_leaf: This Fall I will be at KTH Royal Institute of Technology in...',
+          section: "News",},{id: "news-fallen-leaf-this-fall-i-will-study-at-kth-royal-institute-of-technology-in-sweden-as-an-exchange-student",
+          title: ':fallen_leaf: This Fall I will study at KTH Royal Institute of Technology in...',
           description: "",
           section: "News",},{id: "news-sunny-this-summer-i-will-work-on-language-assisted-safe-navigation-with-prof-andrea-bajcsy-at-cmu-as-part-of-the-riss-program",
           title: ':sunny: This Summer I will work on Language-Assisted Safe Navigation with Prof. Andrea...',
