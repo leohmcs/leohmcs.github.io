@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: books
+title: book recommendations
 permalink: /books/
 nav: true
 nav_order: 4
@@ -11,7 +11,9 @@ collection: # books
 >
 > -- Fernando Sabino, O Encontro Marcado
 
-I enjoy reading and talking about books I've read. If you happen to be interested in any of the books below (even if you haven't read it yet), this is a great way to start a conversation with me :slightly_smiling_face:.
+I enjoy reading and talking about books I've read. If you happen to be interested in any of the books below (even if you haven't read it yet), this is a great way to start a conversation with me :slightly_smiling_face:. 
+
+_Pro tip: I would be particularly excited to talk about a book written by a Brazilian writer._
 
 ## My top recommendations
 
@@ -31,22 +33,12 @@ I enjoy reading and talking about books I've read. If you happen to be intereste
 
 ## Other stuff I've enjoyed reading in the past
 
-### Brazilian Literature
-
+- [_If This Is a Man_, by Primo Levi](https://en.wikipedia.org/wiki/If_This_Is_a_Man)
 - [_Memórias Póstumas de Brás Cubas (The Posthumous Memoirs of Bras Cubas)_, by Machado de Assis](https://en.wikipedia.org/wiki/The_Posthumous_Memoirs_of_Br%C3%A1s_Cubas)
-- [_Os melhores contos_, by Fernando Sabino](https://en.wikipedia.org/wiki/Fernando_Sabino)
-- [_O menino no espelho_, by Fernando Sabino](https://pt.wikipedia.org/wiki/O_Menino_no_Espelho#:~:text=O%20Menino%20no%20Espelho%20%C3%A9,mesmo%20nome%2C%20lan%C3%A7ado%20em%202014.)
-- [_No fim dá certo_, by Fernando Sabino](https://en.wikipedia.org/wiki/Fernando_Sabino)
-- [_O galo músico_, by Fernando Sabino](https://en.wikipedia.org/wiki/Fernando_Sabino)
+- [_O grande mentecapto_, by Fernando Sabino](https://pt.wikipedia.org/wiki/O_Grande_Mentecapto_(romance))
 - [_Vidas secas_, by Graciliano Ramos](https://en.wikipedia.org/wiki/Vidas_secas)
-
-### Other
-
 - [_Notes from Underground_, by Fyodor Dostoevsky](https://en.wikipedia.org/wiki/Notes_from_Underground)
-- [_Family Happiness_, by Leo Tolstoy](https://en.wikipedia.org/wiki/Family_Happiness)
 - [_The Kreutzer Sonata_, by Leo Tolstoy](https://en.wikipedia.org/wiki/The_Kreutzer_Sonata)
-- [_The Buried Giant_, by Kazuo Ishiguro](https://en.wikipedia.org/wiki/The_Buried_Giant)
 - [_Animal Farm_, by George Orwell](https://en.wikipedia.org/wiki/Animal_Farm)
 - [_Frankenstein_, by Mary Shelley](https://en.wikipedia.org/wiki/Frankenstein)
 - [_On the Shortness of Life_, by Seneca](https://en.wikipedia.org/wiki/De_Brevitate_Vitae)
-- [_If This Is a Man_, by Primo Levi](https://en.wikipedia.org/wiki/If_This_Is_a_Man)
