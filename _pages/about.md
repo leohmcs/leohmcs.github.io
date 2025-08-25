@@ -11,7 +11,7 @@ profile:
   more_info: >
           <p>Lindstedtsvägen 24, 4th floor, 11428</p> 
           <p>Stockholm, Sweden</p> 
-          <p>leohmcs at gmail dot com</p>
+          <p>lhmcs at kth dot se</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
