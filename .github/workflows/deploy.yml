@@ -88,10 +88,40 @@ jobs:
           value: ${{ github.repository }}
       - name: Install and Build 🔧
         run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
+          # Install system dependencies required by common native gems (nokogiri, etc.) and imagemagick
+          sudo apt-get update
+          sudo apt-get install -y imagemagick build-essential libxml2-dev libxslt1-dev zlib1g-dev libffi-dev pkg-config
+
+          # Upgrade nbconvert for notebook handling
           pip3 install --upgrade nbconvert
+
+          # Debug info to help CI diagnostics
+          echo "== Environment =="
+          ruby -v
+          gem -v
+          bundle -v || true
+          uname -a
+          echo "== End Environment =="
+
+          # Install the bundler version matching Gemfile.lock if present to avoid "You must use Bundler X" errors
+          if [ -f Gemfile.lock ] && grep -q '^BUNDLED WITH' Gemfile.lock; then
+            BUNDLER_VER=$(awk '/^BUNDLED WITH/ {getline; print $1}' Gemfile.lock)
+            echo "Installing bundler ${BUNDLER_VER}"
+            gem install bundler -v "${BUNDLER_VER}" --no-document || gem install bundler --no-document
+          else
+            echo "No BUNDLED WITH found; installing latest bundler"
+            gem install bundler --no-document
+          fi
+
+          # Use project-local bundle path to avoid permission issues and to work with bundler-cache
+          bundle config set --local path 'vendor/bundle'
+
+          # Install gems with verbose output so failing gem builds are visible in CI logs
+          bundle install --jobs 4 --retry 3 --verbose
+
+          # Build Jekyll site
           export JEKYLL_ENV=production
-          bundle exec jekyll build
+          bundle exec jekyll build --verbose
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
