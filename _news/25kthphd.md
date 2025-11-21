@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:snowflake: I joined [KTH](www.kth.se/en) as PhD student.
+:snowflake: Back to [KTH](www.kth.se/en), this time as PhD student.
