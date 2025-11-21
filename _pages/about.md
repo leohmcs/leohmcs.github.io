@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 subtitle: PhD Student @ <a href='https://kth.se/en'>KTH</a> • <i>Memento mori</i>
 

@@ -1,6 +1,6 @@
 ---
 layout: book-shelf
-title: Book recommendations
+title: book recommendations
 permalink: /books/
 nav: true
 nav_order: 4
