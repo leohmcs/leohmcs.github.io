@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:snowflake: Back to [KTH](www.kth.se/en), this time as PhD student.
+:snowflake: Back to [KTH](www.kth.se/en), now as PhD student.

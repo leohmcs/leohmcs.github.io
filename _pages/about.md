@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Student @ <a href='https://kth.se/en'>KTH</a> • <i>Memento mori</i>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
           <p>Lindstedtsvägen 24, 4th floor, 11428</p> 
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I'm Leo. I'm a PhD student in the Division of Robotics, Perception and Learning at the [KTH Royal Institute of Technology](www.kth.se/en) :sweden: advised by Prof. Iolanda Leite. I am interested in enabling robots to have meaningful, long-term interactions with humans and ensuring that their behavior aligns with human expectations by leveraging tools from robotics, control theory, and machine learning.
+Hello, I'm Leo. I'm a PhD student in the Division of Robotics, Perception and Learning at the [KTH Royal Institute of Technology](www.kth.se/en) :sweden: advised by Prof. Iolanda Leite. My work lies in the intersection of robotics and reinforcement learning and aims to make robot's behavior more interpretable and aligned with human expectations.
 
 Previously, I graduated from the [Federal University of Minas Gerais (UFMG)](https://ufmg.br) :brazil: with a Bachelor's in Electrical Engineering. As an undergrad, I had the pleasure to work with [Douglas Macharet](https://homepages.dcc.ufmg.br/~doug/site/en/) in the [Computer Vision and Robotics Lab (VeRLab)](https://www.verlab.dcc.ufmg.br/). I also had the privilege to be a [Robotics Institute Summer Scholar (RISS)](https://riss.ri.cmu.edu/) in 2023 and 2024 at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) :us:, where I worked with [Sebastian Scherer](https://theairlab.org/team/sebastian/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/), respectively.
 
