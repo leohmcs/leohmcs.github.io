@@ -4,27 +4,27 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/assets/pdf/cv.pdf";
           },
         },{id: "nav-book-recommendations",
-          title: "book recommendations",
+          title: "Book recommendations",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -89,8 +89,8 @@ ninja.data = [{
           section: "News",},{id: "news-mortar-board-i-graduated-from-ufmg-with-a-bachelor-s-in-electrical-engineering",
           title: ':mortar_board: I graduated from UFMG with a Bachelor’s in Electrical Engineering.',
           description: "",
-          section: "News",},{id: "news-snowflake-i-joined-kth-as-phd-student",
-          title: ':snowflake: I joined KTH as PhD student.',
+          section: "News",},{id: "news-snowflake-back-to-kth-now-as-phd-student",
+          title: ':snowflake: Back to KTH, now as PhD student.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
