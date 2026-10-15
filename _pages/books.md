@@ -9,11 +9,11 @@ collection: # books
 
 “— Why count the days, when even one day is enough for a man to know all happiness.”
 
--- *Fyodor Dostoevsky, in The Brothers Karamazov*
+*Fyodor Dostoevsky, in The Brothers Karamazov*
 
 ---
 
-This list is my attempt to recommend books beyond those that are already widely recommended, such as *The Brothers Karamazov*, *Don Quijote*, or, *1984*, and I hope you may find some wisdom in what they have to tell. 
+This list is my attempt to recommend books beyond those that are already widely recommended, such as *The Brothers Karamazov*, *Don Quijote*, and *1984*, and I hope you may find some wisdom in what they have to tell. 
 
 ### Brazilian books I recommend
 
