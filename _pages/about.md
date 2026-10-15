@@ -31,4 +31,4 @@ Hello, I'm Leo. I'm a PhD student in the Division of Robotics, Perception and Le
 
 Previously, I graduated from the [Federal University of Minas Gerais (UFMG)](https://ufmg.br) :brazil: with a Bachelor's in Electrical Engineering. As an undergrad, I had the pleasure to work with [Douglas Macharet](https://homepages.dcc.ufmg.br/~doug/site/en/) in the [Computer Vision and Robotics Lab (VeRLab)](https://www.verlab.dcc.ufmg.br/). I also had the privilege to be a [Robotics Institute Summer Scholar (RISS)](https://riss.ri.cmu.edu/) in 2023 and 2024 at [Carnegie Mellon University (CMU)](https://www.cmu.edu/) :us:, where I worked with [Sebastian Scherer](https://theairlab.org/team/sebastian/) and [Andrea Bajcsy](https://www.cs.cmu.edu/~abajcsy/), respectively.
 
-[google scholar](https://scholar.google.com/citations?user=dvfgXjkAAAAJ&hl=en) \| [github](https://github.com/leohmcs) \| [linkedin](https://www.linkedin.com/in/leohmcs/)
+[Google scholar](https://scholar.google.com/citations?user=dvfgXjkAAAAJ&hl=en) \| [Github](https://github.com/leohmcs) \| [LinkedIn](https://www.linkedin.com/in/leohmcs/)

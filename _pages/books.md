@@ -7,11 +7,13 @@ nav_order: 4
 collection: # books
 ---
 
-“— E você, Eduardo. Você, o puro, o intocado, o que se preserva, como disse Mauro. Seu horror ao compromisso porque você se julga um comprometido, tem uma missão a cumprir, é um escritor. Você e sua simpatia, sua saúde… Bem sucedido em tudo, mas cheio de arestas que ferem sem querer. Seu ar de quem está sempre indo a um lugar que não é aqui, para se encontrar com alguém que não somos nós. Seu desprezo pelos fracos porque se julga forte, sua inteligência incômoda, sua explicação para tudo, seu senso prático — tudo orgulho. O orgulho de ser o primeiro — a vida, para você, é um campeonato de natação. Sua desenvoltura, sua excitação mental, sua fidelidade a um destino certo, tudo isso faz de você presa certa do demônio — mesmo sua vocação para o ascetismo, para a vida áspera, espartana. Você e seus escritores ingleses, você e sua chave que abre todas as portas. Orgulho: você e seu orgulho. De nós três, o de mais sorte, o escolhido, nosso amparo, nossa esperança. E de nós três, talvez, o mais miserável, talvez o mais desgraçado, porque condenado à incapacidade de amar, pelo orgulho, ou à solidão, pela renúncia. Hugo não disse mais nada. E os três, agora, não ousavam levantar a cabeça, para não mostrar que estavam chorando. O garçom veio saber se queriam mais chope, ninguém o atendeu. Alguém soltou uma gargalhada no fundo do bar. Lá fora, na rua, um bonde passou com estrépito.”
+“— Why count the days, when even one day is enough for a man to know all happiness.”
 
--- *Fernando Sabino, O Encontro Marcado*
+-- *Fyodor Dostoevsky, in The Brothers Karamazov*
 
 ---
+
+This list is my attempt to recommend books beyond those that are already widely recommended, such as *The Brothers Karamazov*, *Don Quijote*, or, *1984*, and I hope you may find some wisdom in what they have to tell. 
 
 ### Brazilian books I recommend
 
@@ -22,7 +24,6 @@ collection: # books
 
 ### Other books that I also recommend
 
-- [_El ingenioso hidalgo don Quijote de la Mancha_, by Cervantes](https://en.wikipedia.org/wiki/Don_Quixote)
 - [_If This Is a Man_, by Primo Levi](https://en.wikipedia.org/wiki/If_This_Is_a_Man)
 - [_The Kreutzer Sonata_, by Leo Tolstoy](https://en.wikipedia.org/wiki/The_Kreutzer_Sonata)
 - [_One Hundred Years of Solitude_, by Gabriel García Márquez](https://en.wikipedia.org/wiki/One_Hundred_Years_of_Solitude)
